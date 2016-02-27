@@ -1,0 +1,28 @@
+_repo: Addresses-by-Henry-Drummond_2498
+creator:
+  author:
+    agent_name: Drummond, Henry
+    birthdate: 1851
+    deathdate: 1897
+    gutenberg_agent_id: '940'
+    url: http://www.gutenberg.org/2009/agents/940
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Drummond
+description: ''
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology'
+- !lcsh 'Sermons'
+- !lcc 'BR'
+- !lcsh 'Speeches, addresses, etc.'
+tableOfContents: Love, the greatest thing in the world -- Lessons from The Angelus
+  -- Pax vobiscum -- First! An address to boys -- The changed life, the greatest need
+  of the world -- Dealing with doubt.
+title: Addresses by Henry Drummond
+url: http://www.gutenberg.org/ebooks/2498
