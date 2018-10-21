@@ -1,5 +1,5 @@
 _repo: Addresses-by-Henry-Drummond_2498
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ subjects:
 - !lcsh 'Sermons'
 - !lcc 'BR'
 - !lcsh 'Speeches, addresses, etc.'
+- GITenberg
 tableOfContents: Love, the greatest thing in the world -- Lessons from The Angelus
   -- Pax vobiscum -- First! An address to boys -- The changed life, the greatest need
   of the world -- Dealing with doubt.
